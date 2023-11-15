@@ -7,9 +7,6 @@
    ```
 
 **Unzip the zip file in data folder:**
-    ```bash
-    cd [project-directory]/data
-    unzip [data-file.zip]
-    ```
+
 
 **Open and run the run.ipynb Jupyter notebook.**
